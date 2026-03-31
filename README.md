@@ -1,18 +1,89 @@
-# About Me:
-I am Prabin Shrestha, a dedicated Full Stack Developer currently contributing to innovation at NNINE Solution. My expertise spans the entire development lifecycle, with a recent focus on creating a sophisticated drag-and-drop website builder leveraging advanced tools like GrapesJS. I also have a proven track record of successfully delivering complex projects, including a comprehensive Flight Booking web application and a robust Learning Management System.
+# Santosh Dahal
 
-
-## Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/prabina.srestha.640573) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/prabin-shrestha-877528374/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dev.prabinshrestha@gmail.com) 
-
-# Tech Stack:
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=prabinshrestha17&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=prabinshrestha17&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=prabinshrestha17&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+**Full-Stack Developer** focused on building scalable products with clean architecture, reliable backend systems, and maintainable code.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=prabinshrestha17&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+I am **Prabin Shrestha**, a passionate Full-Stack Developer currently working at **NNINE Solution**.  
+I specialize in building modern, scalable applications across the full development lifecycle.
+
+- 🔧 Currently building a **drag-and-drop website builder** using GrapesJS  
+- ✈️ Developed a **Flight Booking System**  
+- 🎓 Built a **Learning Management System (LMS)**  
+- ⚡ Focused on performance, clean code, and system design  
+
+---
+
+## 🧠 Core Expertise
+
+- **Frontend Development:** React, Next.js, TailwindCSS, Redux  
+- **Backend Engineering:** Node.js, Express.js, REST APIs, Authentication (JWT)  
+- **Database Systems:** PostgreSQL, MongoDB, Redis  
+- **Architecture:** Clean Architecture, Scalable Systems, API Design  
+- **Cloud & DevOps:** AWS, Firebase, Git, CI/CD, Linux  
+
+---
+
+## 💼 Professional Work
+
+- Delivered production-grade applications with real-time features and role-based access control  
+- Built secure and scalable backend systems with optimized database design  
+- Integrated caching strategies using Redis for performance optimization  
+- Contributed to projects with strong focus on code quality and maintainability  
+
+---
+
+## ⚙️ Technology Stack
+
+### 🖥️ Frontend
+![React](https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?logo=vite&logoColor=white)
+
+### 🧩 Backend
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)
+
+### 🗄️ Databases & Caching
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?logo=redis&logoColor=white)
+
+### ☁️ Tools & Cloud
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?logo=firebase)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-FCC624?logo=linux&logoColor=black)
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=prabinshrestha17&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://nirzak-streak-stats.vercel.app/?user=prabinshrestha17&theme=radical&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=prabinshrestha17&theme=radical&hide_border=false&layout=compact)
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: dev.prabinshrestha@gmail.com  
+- 💼 LinkedIn: https://linkedin.com/in/prabin-shrestha-877528374/  
+- 🌐 Facebook: https://facebook.com/prabina.srestha.640573  
+
+---
+
+## 🔍 Open To Opportunities
+
+💡 Open to **Full-Stack Developer roles**, freelance projects, and collaborations.
+
+---
+
+![](https://visitcount.itsvg.in/api?id=prabinshrestha17&icon=0&color=0)
