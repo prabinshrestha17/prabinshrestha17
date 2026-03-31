@@ -1,4 +1,4 @@
-# Santosh Dahal
+# Prabin Shrestha
 
 **Full-Stack Developer** focused on building scalable products with clean architecture, reliable backend systems, and maintainable code.
 
